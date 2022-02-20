@@ -22,7 +22,7 @@ email      : patrick.merlot+test@gmail.com #andelslandbruk@dysterjordet.no #this
 description: "Dysterjordet andelslandbruk ligger som en stripe langs Hogstvetveien i Ås sentrum." # "Agency Bootstrap theme converted to a Jekyll theme, plus new features: Google Analytics, Markdown support, custom pages, and more!"
 author     : Victoria Thomas
 logo:     #optional, defaults to site title
-  path: assets\img\clients\creative-market.jpg
+  path: assets\img\clients\D_logo.png
   height: 60 #height in px, defaults to 52px
 
 locale: "en-US" # See available languages in _data/sitetext.yml
