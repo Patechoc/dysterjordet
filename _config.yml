@@ -25,7 +25,7 @@ logo:     #optional, defaults to site title
   path: assets\img\clients\dysterjordet_andelsbruk-no-background.png
   height: 120 #height in px, defaults to 52px
 
-locale: "en-US" # See available languages in _data/sitetext.yml
+locale: ["en-US", "es-ES", "fr-FR"] # See available languages in _data/sitetext.yml
 
 analytics:
   google: #Google Analytics tracking code here
