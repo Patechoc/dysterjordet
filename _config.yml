@@ -26,7 +26,11 @@ logo:     #optional, defaults to site title
   height: 120 #height in px, defaults to 52px
 
 locale: "en-US" # See available languages in _data/sitetext.yml
+
 languages: ["en", "es", "fr"]
+default_lang: "en"
+exclude_from_localization: ["javascript", "images", "css", "public"]
+parallel_localization: true
 
 analytics:
   google: #Google Analytics tracking code here
@@ -42,3 +46,4 @@ markdown: kramdown
 
 plugins:
   - jekyll-remote-theme
+  - jekyll-polyglot
